@@ -1,6 +1,6 @@
 # API Project: Request Header Parser Microservice for freeCodeCamp
 
-This is my solution to as part of the freeCodeCamp APIs and Microservices curriculum.
+This is a simple Node and Express app that parses a request header and returns information.
 
 A live version is online at:
 
